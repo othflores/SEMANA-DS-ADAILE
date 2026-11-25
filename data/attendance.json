@@ -1,0 +1,357 @@
+{
+  "sessions": [
+    {
+      "id": "1782913198587",
+      "name": "matemática",
+      "created_at": "2026-07-01T10:39:58.587296",
+      "lat": null,
+      "lon": null,
+      "radius": 100,
+      "active": false,
+      "address": "",
+      "closed_at": "2026-07-01T10:40:05.981421"
+    },
+    {
+      "id": "1782913217705",
+      "name": "banco de dados",
+      "created_at": "2026-07-01T10:40:17.705819",
+      "lat": -23.6750786,
+      "lon": -46.670534,
+      "radius": 100,
+      "active": true,
+      "address": "Rua Calil Abutara, Campo Grande, Vila Arriete, São Paulo, Região Sudeste, 04438-090, Brasil"
+    },
+    {
+      "id": "1783335593555",
+      "name": "Matematica",
+      "created_at": "2026-07-06T07:59:53.555336",
+      "lat": -23.414254,
+      "lon": -51.8883686,
+      "radius": 100,
+      "active": true,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Hermenegildo Gomes de Castro, Jardim Liberdade III, Maringá, Paraná, Região Sul, 87040-440, Brasil"
+    },
+    {
+      "id": "1783336120424",
+      "name": "banco de dados",
+      "created_at": "2026-07-06T08:08:40.424844",
+      "lat": null,
+      "lon": null,
+      "radius": 100,
+      "active": true,
+      "address": ""
+    },
+    {
+      "id": "1783336174530",
+      "name": "banco de dados 1",
+      "created_at": "2026-07-06T08:09:34.530117",
+      "lat": -23.4142333,
+      "lon": -51.8883472,
+      "radius": 100,
+      "active": false,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Armando Crippa, Jardim Liberdade IV, Maringá, Paraná, Região Sul, 87040-440, Brasil",
+      "closed_at": "2026-07-06T08:54:10.228842"
+    },
+    {
+      "id": "1783336483621",
+      "name": "Introdução a programação",
+      "created_at": "2026-07-06T08:14:43.621757",
+      "lat": -23.4142186,
+      "lon": -51.888379,
+      "radius": 100,
+      "active": false,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Hermenegildo Gomes de Castro, Jardim Liberdade III, Maringá, Paraná, Região Sul, 87040-440, Brasil",
+      "closed_at": "2026-07-06T08:17:55.255752"
+    },
+    {
+      "id": "1783336696511",
+      "name": "Português",
+      "created_at": "2026-07-06T08:18:16.511361",
+      "lat": null,
+      "lon": null,
+      "radius": 50,
+      "active": false,
+      "address": "",
+      "closed_at": "2026-07-06T08:18:54.094731"
+    },
+    {
+      "id": "1783336942733",
+      "name": "ed. fisica",
+      "created_at": "2026-07-06T08:22:22.733377",
+      "lat": -23.414227,
+      "lon": -51.8883559,
+      "radius": 100,
+      "active": false,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Armando Crippa, Jardim Liberdade III, Maringá, Paraná, Região Sul, 87040-440, Brasil",
+      "closed_at": "2026-07-06T08:54:08.481944"
+    },
+    {
+      "id": "1783337001908",
+      "name": "fydrydyd",
+      "created_at": "2026-07-06T08:23:21.908694",
+      "lat": null,
+      "lon": null,
+      "radius": 100,
+      "active": false,
+      "address": "",
+      "closed_at": "2026-07-06T08:54:07.212682"
+    },
+    {
+      "id": "1783337472109",
+      "name": "matematica",
+      "created_at": "2026-07-06T08:31:12.109380",
+      "lat": -23.4142138,
+      "lon": -51.8883698,
+      "radius": 100,
+      "active": false,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Armando Crippa, Jardim Liberdade III, Maringá, Paraná, Região Sul, 87040-440, Brasil",
+      "closed_at": "2026-07-06T08:54:04.728978"
+    },
+    {
+      "id": "1783337932310",
+      "name": "matemática",
+      "created_at": "2026-07-06T08:38:52.310502",
+      "lat": -23.4142312,
+      "lon": -51.8883541,
+      "radius": 100,
+      "active": false,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Armando Crippa, Jardim Liberdade IV, Maringá, Paraná, Região Sul, 87040-440, Brasil",
+      "closed_at": "2026-07-06T08:54:02.846143"
+    },
+    {
+      "id": "1783338548712",
+      "name": "Artes",
+      "created_at": "2026-07-06T08:49:08.712057",
+      "lat": -23.6750786,
+      "lon": -46.670534,
+      "radius": 100,
+      "active": false,
+      "address": "Rua Calil Abutara, Campo Grande, Vila Arriete, São Paulo, Região Sudeste, 04438-090, Brasil",
+      "closed_at": "2026-07-06T08:54:00.333591"
+    },
+    {
+      "id": "1783338943224",
+      "name": "artes",
+      "created_at": "2026-07-06T08:55:43.224661",
+      "lat": null,
+      "lon": null,
+      "radius": 100,
+      "active": true,
+      "address": ""
+    },
+    {
+      "id": "1783338952790",
+      "name": "artes",
+      "created_at": "2026-07-06T08:55:52.790014",
+      "lat": -23.4142493,
+      "lon": -51.8883729,
+      "radius": 100,
+      "active": false,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Hermenegildo Gomes de Castro, Jardim Liberdade III, Maringá, Paraná, Região Sul, 87040-440, Brasil",
+      "closed_at": "2026-07-06T09:00:19.488398"
+    },
+    {
+      "id": "1783339268611",
+      "name": "Português",
+      "created_at": "2026-07-06T09:01:08.611671",
+      "lat": -23.4142493,
+      "lon": -51.8883729,
+      "radius": 50,
+      "active": true,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Hermenegildo Gomes de Castro, Jardim Liberdade III, Maringá, Paraná, Região Sul, 87040-440, Brasil"
+    },
+    {
+      "id": "1783339701879",
+      "name": "matematica",
+      "created_at": "2026-07-06T09:08:21.879426",
+      "lat": -23.4142293,
+      "lon": -51.8883733,
+      "radius": 100,
+      "active": true,
+      "address": "Colégio Estadual Adaile Maria Leite, Rua Armando Crippa, Jardim Liberdade IV, Maringá, Paraná, Região Sul, 87040-440, Brasil"
+    },
+    {
+      "id": "1795614911927",
+      "name": "Matemática",
+      "created_at": "2026-11-25T10:55:11.927705",
+      "lat": -25.4665415,
+      "lon": -49.2030851,
+      "radius": 100,
+      "active": true,
+      "address": "1056, Rua Amador Bueno, Cajuru, Curitiba, Paraná, Região Sul, 82960-000, Brasil"
+    }
+  ],
+  "records": [
+    {
+      "id": "1782913223427",
+      "session_id": "1782913217705",
+      "name": "Thiago",
+      "lat": -23.6750786,
+      "lon": -46.670534,
+      "distance": 0.0,
+      "timestamp": "2026-07-01T10:40:23.427066"
+    },
+    {
+      "id": "1783335691522",
+      "session_id": "1783335593555",
+      "name": "josé miguel 1C",
+      "lat": -23.414254,
+      "lon": -51.8883686,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:01:31.522426"
+    },
+    {
+      "id": "1783336146077",
+      "session_id": "1783336120424",
+      "name": "Lorenzo Piva 1°C",
+      "lat": null,
+      "lon": null,
+      "distance": null,
+      "timestamp": "2026-07-06T08:09:06.077351"
+    },
+    {
+      "id": "1783336499675",
+      "session_id": "1783336483621",
+      "name": "Guilherme Ribeiro Neves",
+      "lat": -23.4142186,
+      "lon": -51.888379,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:14:59.675878"
+    },
+    {
+      "id": "1783336510124",
+      "session_id": "1783336483621",
+      "name": "Cauã Fernandes Barbosa",
+      "lat": -23.4142186,
+      "lon": -51.888379,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:15:10.124075"
+    },
+    {
+      "id": "1783336606295",
+      "session_id": "1783336483621",
+      "name": "aa",
+      "lat": -23.4142186,
+      "lon": -51.888379,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:16:46.295669"
+    },
+    {
+      "id": "1783336613374",
+      "session_id": "1783336483621",
+      "name": "thrth",
+      "lat": -23.4142186,
+      "lon": -51.888379,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:16:53.374489"
+    },
+    {
+      "id": "1783336616959",
+      "session_id": "1783336483621",
+      "name": "ey5yy45747",
+      "lat": -23.4142186,
+      "lon": -51.888379,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:16:56.959954"
+    },
+    {
+      "id": "1783336620366",
+      "session_id": "1783336483621",
+      "name": "fdgfd",
+      "lat": -23.4142186,
+      "lon": -51.888379,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:17:00.366395"
+    },
+    {
+      "id": "1783336623719",
+      "session_id": "1783336483621",
+      "name": "fgdfgd",
+      "lat": -23.4142342,
+      "lon": -51.8883555,
+      "distance": 3.0,
+      "timestamp": "2026-07-06T08:17:03.719047"
+    },
+    {
+      "id": "1783336703175",
+      "session_id": "1783336696511",
+      "name": "dfg",
+      "lat": null,
+      "lon": null,
+      "distance": null,
+      "timestamp": "2026-07-06T08:18:23.175287"
+    },
+    {
+      "id": "1783336968475",
+      "session_id": "1783336942733",
+      "name": "matheus gpt",
+      "lat": -23.414227,
+      "lon": -51.8883559,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:22:48.475658"
+    },
+    {
+      "id": "1783337007212",
+      "session_id": "1783337001908",
+      "name": "gytuftuf",
+      "lat": null,
+      "lon": null,
+      "distance": null,
+      "timestamp": "2026-07-06T08:23:27.212348"
+    },
+    {
+      "id": "1783337570001",
+      "session_id": "1783337472109",
+      "name": "Pedro Henrique Pasqual",
+      "lat": -23.4142312,
+      "lon": -51.8883541,
+      "distance": 2.5,
+      "timestamp": "2026-07-06T08:32:50.001678"
+    },
+    {
+      "id": "1783337950085",
+      "session_id": "1783337932310",
+      "name": "wendy",
+      "lat": -23.4142312,
+      "lon": -51.8883541,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:39:10.085838"
+    },
+    {
+      "id": "1783339000248",
+      "session_id": "1783338952790",
+      "name": "isadora liel",
+      "lat": -23.4142493,
+      "lon": -51.8883729,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T08:56:40.248551"
+    },
+    {
+      "id": "1783339281186",
+      "session_id": "1783339268611",
+      "name": "Thiago Flores",
+      "lat": -23.4142493,
+      "lon": -51.8883729,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T09:01:21.186494"
+    },
+    {
+      "id": "1783339287896",
+      "session_id": "1783339268611",
+      "name": "Kemilly",
+      "lat": -23.4142493,
+      "lon": -51.8883729,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T09:01:27.896691"
+    },
+    {
+      "id": "1783339742875",
+      "session_id": "1783339701879",
+      "name": "lucas guilherme rocha menezes",
+      "lat": -23.4142293,
+      "lon": -51.8883733,
+      "distance": 0.0,
+      "timestamp": "2026-07-06T09:09:02.875631"
+    }
+  ]
+}
